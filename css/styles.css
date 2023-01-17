@@ -1,0 +1,42 @@
+
+/* CSS HEX
+--queen-blue: #4c6085ff;
+--black-olive: #32322cff;
+--uranian-blue: #b2ddf7ff;
+--granny-smith-apple: #9ae19dff;
+--pale-spring-bud: #e4e9b2ff; */
+
+
+/* Global Styles 
+--------------------------------*/
+body {
+   color: #32322cff;
+}
+
+img {
+   width: 300px;
+}
+
+
+
+/* Profile
+--------------------------------*/
+header {
+   color: #4c6085ff;
+}
+
+
+/* Projects
+--------------------------------*/
+.projects {
+   background: #b2ddf7ff;
+}
+
+
+/* Work Experience
+--------------------------------*/
+.work-experience {
+   background: #e4e9b2ff;
+}
+
+
